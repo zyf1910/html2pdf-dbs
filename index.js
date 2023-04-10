@@ -1,11 +1,3 @@
-/*
- * @Autor: zhao yongfei
- * @Date: 2022-01-13 20:51:20
- * @LastEditors: zhao yongfei v-zhaoyongfei@doublefs.com
- * @LastEditTime: 2023-04-08 18:30:16
- * @Description: 
- * @FilePath: /dmd-pc/node_modules/html2pdf-dbs/index.js
- */
 import html2Canvas from 'html2canvas'
 import JsPDF from 'jspdf'
 let personName = ""
