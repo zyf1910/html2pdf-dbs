@@ -1,8 +1,8 @@
 # html2pdf
 Convert HTML to PDF.
 
-## Examples
-[basic demo](http://weilao.github.io/vue-swiper/demo)
+<!-- ## Examples -->
+<!-- [basic demo](http://weilao.github.io/vue-swiper/demo) -->
 
 ## Install
 ```
@@ -14,6 +14,7 @@ npm i html2pdf-dbs -S
 ```js
 <script lang="ts" setup>
 import { htmlToPdf } from "html2pdf-dbs";
+</script>
 ```
 
 ```html
@@ -22,8 +23,8 @@ import { htmlToPdf } from "html2pdf-dbs";
 </el-button>
 ```
 
-## Api
-### Properties
+<!-- ## Api -->
+### Params
 | Name                 | Type      | Default      | Description                                                        |
 |----------------------|-----------|--------------|--------------------------------------------------------------------|
 | elementId            | `String`  | `""` | 需要转换的html父元素ID       |
