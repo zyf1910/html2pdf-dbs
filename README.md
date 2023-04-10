@@ -2,7 +2,7 @@
 Convert HTML to PDF.
 
 <!-- ## Examples -->
-<!-- [basic demo](http://weilao.github.io/vue-swiper/demo) -->
+<!-- [basic demo](http://xxx.com) -->
 
 ## Install
 ```

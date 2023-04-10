@@ -162,8 +162,8 @@ export const htmlToPdf = function (elementId, fileName, watermarkConfig = {}) {
 }
 export default {
   install (Vue, options) {
-    let userInfo = localStorage.getItem('userInfo')
-    if (userInfo) userInfo = JSON.parse(userInfo)
+    let userInfo = localStorage.getItem('userInfo') || sessionStorage.getItem('userInfo') || "{}"
+    userInfo = JSON.parse(userInfo)
     personName = userInfo.name
     Vue.prototype.htmlToPdf = htmlToPdf
   }
