@@ -1,0 +1,46 @@
+{
+  "_from": "html2pdf-dbs",
+  "_id": "html2pdf-dbs@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-5pWDsZCZSGqrf6dvEG01IZGmzm93zJfB95HaRIE0S8fFRhbee0wxuwdTk5fXO0Q0pI86n+sd6nuZ61I4PviOQQ==",
+  "_location": "/html2pdf-dbs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "html2pdf-dbs",
+    "name": "html2pdf-dbs",
+    "escapedName": "html2pdf-dbs",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/html2pdf-dbs/-/html2pdf-dbs-1.0.2.tgz",
+  "_shasum": "b2554e6d8ff223dcb2a6e71dd7760525f6a1ff17",
+  "_spec": "html2pdf-dbs",
+  "_where": "/Users/zhaoyongfei/work/Project/odm-pc",
+  "author": {
+    "name": "zyf1910"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "html2canvas": "^1.4.0",
+    "jspdf": "^2.5.0"
+  },
+  "deprecated": false,
+  "description": "html2pdf",
+  "keywords": [
+    "html2pdf"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "html2pdf-dbs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.12"
+}
